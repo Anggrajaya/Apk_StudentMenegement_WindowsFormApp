@@ -1,0 +1,14 @@
+D:\PBT\Data_Siswa\Data_Siswa\bin\Debug\Data_Siswa.exe.config
+D:\PBT\Data_Siswa\Data_Siswa\bin\Debug\Data_Siswa.exe
+D:\PBT\Data_Siswa\Data_Siswa\bin\Debug\Data_Siswa.pdb
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.csproj.AssemblyReference.cache
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.Form1.resources
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.Properties.Resources.resources
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.csproj.GenerateResource.cache
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.csproj.CoreCompileInputs.cache
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.exe
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.pdb
+D:\PBT\Data_Siswa\Data_Siswa\bin\Debug\Data_Siswa.exe.manifest
+D:\PBT\Data_Siswa\Data_Siswa\bin\Debug\Data_Siswa.application
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.exe.manifest
+D:\PBT\Data_Siswa\Data_Siswa\obj\Debug\Data_Siswa.application
